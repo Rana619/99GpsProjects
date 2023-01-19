@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DashbordStyle/static/css/main.4fc50315.css",
+    "main.js": "/DashbordStyle/static/js/main.a3f3b1e7.js",
+    "static/js/787.8ed45876.chunk.js": "/DashbordStyle/static/js/787.8ed45876.chunk.js",
+    "static/media/logo 1.svg": "/DashbordStyle/static/media/logo 1.273b459ebe61c03008c028c951cf0e2a.svg",
+    "index.html": "/DashbordStyle/index.html",
+    "main.4fc50315.css.map": "/DashbordStyle/static/css/main.4fc50315.css.map",
+    "main.a3f3b1e7.js.map": "/DashbordStyle/static/js/main.a3f3b1e7.js.map",
+    "787.8ed45876.chunk.js.map": "/DashbordStyle/static/js/787.8ed45876.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc50315.css",
+    "static/js/main.a3f3b1e7.js"
+  ]
+}
